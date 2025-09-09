@@ -1,7 +1,7 @@
 # Prisma Sounds  
 
-We create virtual instruments for musicians and producers. We think music is made of huge orchestras as much as it is made of old budget drum machines, that one instrument a busker built on his own and a bunch of pieces of junk hit together, and that's what we want the composers to have access to.
-Discover them all on our website: [prismasounds.github.io](https://prismasounds.github.io/)  
+We think music is made of huge orchestras as much as it is made of old budget drum machines, that one instrument a busker built on his own and a bunch of pieces of junk hit together, and that's what we want the composers to have access to.
+Discover more on our website: [prismasounds.github.io](https://prismasounds.github.io/)  
 
 ### Instruments  
 - [**Upright Detuned**](https://prismasounds.github.io/upright-detuned.html) – a mysterious, detuned upright piano with ghostly textures.  
